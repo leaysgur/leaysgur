@@ -1,5 +1,3 @@
 <p align="center">
-
-![Thank you for visiting!](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif)
-
+  <img alt="Thank you for visiting!" src="https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif" />
 </p>
